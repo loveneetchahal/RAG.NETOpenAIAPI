@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHlrd2718xk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\RAG_DotNet\\RAG_DotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\openai\\2.0.0\\openai.2.0.0.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.clientmodel\\1.1.0\\system.clientmodel.1.1.0.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\LoveneetChahal\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
